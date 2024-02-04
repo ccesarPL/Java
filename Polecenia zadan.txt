@@ -1,0 +1,15 @@
+Przeanalizować kod:
+
+public class Main {
+  public static void main(String[] args) {
+    System.out.println("Hello world!");
+  }
+
+}
+
+// - komentarz
+/* komentarz */
+
+zmienne budowa {typ nazwa=wartość;}
+
+typy= String, int
