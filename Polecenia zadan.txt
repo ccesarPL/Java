@@ -13,3 +13,6 @@ public class Main {
 zmienne budowa {typ nazwa=wartość;}
 
 typy= String, int
+
+1) Utworzć program który wyświetli imię i wiek
+2) Zmodyfikować żeby to uzytkownik podał swoje imię i wiek
